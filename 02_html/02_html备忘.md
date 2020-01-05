@@ -27,3 +27,4 @@
 |³|立方3（上标3）|`&sup3;`|
 
 ---
+adb shell am start -n tv.icntv.ott/com.istv.ui.app.detail.DetailsActivity
